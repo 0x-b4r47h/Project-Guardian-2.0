@@ -1,6 +1,6 @@
 # PII Detection & Redaction Solution - Project Guardian 2.0
 
-This repository contains the complete implementation of Flipkart's PII detection and redaction system as part of Project Guardian 2.0.
+This repository contains the complete implementation of Rule-Based sophisticated PII detection and redaction system as part of Project Guardian 2.0.
 
 ## Quick Start
 
