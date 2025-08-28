@@ -16,7 +16,7 @@ This will create an output file with `redacted_` prefix containing the redacted 
 
 ```bash
 python3 detector_full_candidate_name.py iscp_pii_dataset.csv
-# Creates: iscp_pii_dataset_redacted.csv
+# Creates: redacted_output_full_candidate_name.csv
 ```
 
 ## How It Works
